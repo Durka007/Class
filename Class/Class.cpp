@@ -32,7 +32,7 @@ int main()
     setlocale(LC_ALL, "rus");
     Vehice p1(7,6,15);
     Vehice p2(20,21,22);
-
+    Vehice p3(20, 21, 22);
     int range1, range2;
     range1 = p1.range();
     range2 = p2.range();
